@@ -44,7 +44,20 @@
   npm install -g pnpm
   ```
 
-### 4. Docker（必备）
+### 4. Git（必备）
+- 用途：管理课程代码 & 克隆官方仓库
+- 安装指引：参考 [Git 官方下载页](https://git-scm.com/downloads) 选择对应系统；macOS 也可使用 `brew install git`
+- 自检：
+  ```bash
+  git --version
+  ```
+- 常见配置：
+  ```bash
+  git config --global user.name "你的名字"
+  git config --global user.email "你的邮箱"
+  ```
+
+### 5. Docker（必备）
 - 用途：运行课程中的本地服务
 - 安装建议：
   - macOS：Docker Desktop（https://www.docker.com/products/docker-desktop/）
