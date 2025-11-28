@@ -75,6 +75,7 @@
 
 - 至少准备 **1 个可用 LLM 服务** 的 API Key
 - 推荐性价比渠道（含 15 元新用户福利）：https://ppio.com/user/register?invited_by=1X35A7
+- 想使用海外大模型？推荐 **Grok 4.1**（性价比之王），可通过 https://zenmux.ai/invite/1ECQGA 快速注册获取额度
 - 记得妥善保存 Key，以便课堂练习直接使用
 
 ---
