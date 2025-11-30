@@ -88,6 +88,8 @@
    ```bash
    git clone https://github.com/open-webui/open-webui.git
    ```
+项目295MB，国内直接git clone可能较慢，可用其他国内同步镜像，如GitCode https://gitcode.com/kynot321/open-webui
+   
 2. **MemMachine**（长期记忆能力）
    ```bash
    git clone https://github.com/MemMachine/MemMachine.git
