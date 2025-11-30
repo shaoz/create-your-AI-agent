@@ -35,15 +35,25 @@
 
 ~ % nvm --version
 0.40.3
+
 ~ % nvm install 18
+
 Downloading and installing node v18.20.8...
+
 Downloading https://nodejs.org/dist/v18.20.8/node-v18.20.8-darwin-arm64.tar.xz...
+
 ############################################# 100.0%
+
 Computing checksum with sha256sum
+
 Checksums matched!
+
 Now using node v18.20.8 (npm v10.8.2)
+
 Creating default alias: default -> 18 (-> v18.20.8)
+
 ~ % node -v      
+
 v18.20.8
 
   
@@ -72,6 +82,7 @@ v18.20.8
   git config --global user.email "你的邮箱"
   ```
 ~ % git --version
+
 git version 2.39.5 (Apple Git-154)
 
 ### 5. Docker（必备）
@@ -85,9 +96,11 @@ git version 2.39.5 (Apple Git-154)
   docker --version
   docker compose version
   ```
-**~ % docker --version
+~ % docker --version
+
 Docker version 27.3.1, build ce12230
-**---
+
+---
 
 ## 🔑 三、API Key 准备
 
