@@ -1,69 +1,82 @@
-# Agent Zero to One
+# Agent: Zero to One
 
-> ThinkInAI 社区联合 MemVerge 打造的智能体实战开发营，带你在真实业务场景中做好“第一个可落地的 Agent”。
+> A hands-on Agent Development Bootcamp from **ThinkInAI Community** and **MemVerge**.
+> Build your **first deployable AI Agent** in real-world business scenarios.
 
-## 为什么值得加入
+## 🚀 Why You Should Join
 
-- 只讲实战，不空谈概念：每一章都是动手项目。
-- 真实可复用：课程成果可以直接落地到业务或创业项目。
-- 完整工具链：覆盖从大模型调用到长期记忆、工作流编排。
+- **Practice-Driven, Not Conceptual:** Every module is a hands-on project. We skip the abstract theories and focus on what you can build.
+- **Real & Reusable Outcomes:** The agents you build are directly applicable to your business or startup ideas.
+- **End-to-End Toolchain:** Master a complete stack—from LLM orchestration and long-term memory to workflow automation.
 
-## 你会掌握什么
+## 🛠️ What You Will Build
 
-| 能力 | 价值 |
-| --- | --- |
-| Open WebUI | 打造本地/私有 AI 工作台，实现可控可审计的 Agent 交互界面 |
-| MemMachine | 为智能体接入长期记忆，支持持续学习和上下文追溯 |
-| 大模型 API（DeepSeek / doubao / PPIO 等） | 自如调用不同模型，按需组合推理、生成和检索能力 |
-| 工具链（Toolchain）与上下文编排（Workflow） | 构建可扩展的多工具、多阶段智能体流程 |
+| Capability | Value |
+| :--- | :--- |
+| **Open WebUI** | Build a local/private AI workstation for a controllable and auditable Agent interface. |
+| **MemMachine** | Equip your agent with long-term memory for continuous learning and context tracing. |
+| **LLM APIs** <br/> (DeepSeek / doubao / PPIO, etc.) | Confidently call different models, combining reasoning, generation, and retrieval as needed. |
+| **Toolchains & Workflow Orchestration** | Construct scalable, multi-tool, and multi-stage agent processes. |
 
-## 开课前准备
+## ✅ Pre-Course Checklist
 
-正式上手前，请按照《[项目启动 Checklist](checklist.md)》完成环境、软件与 API Key 的逐项准备，确保课堂即可进入动手环节。
+Before we begin, please follow the **[Project Launch Checklist](checklist.md)** to set up your environment, install necessary software, and configure API keys. This ensures you can start coding from day one.
 
-## 三期实战课
+---
 
-| 期数 | 智能体主题 | 核心将学到什么 | 实战亮点 | 关键词 |
-|------|-----------|----------------|------------|------------|
-| **第一期** | AI 写作助手 Agent | 如何让模型理解你、模仿你、形成你的写作风格 | 手把手做：你的专属写作小助手可直接投入使用 | AI 写作、个性化风格、场景智能 |
-| **第二期** | AI 健康关怀 Agent | 如何构建一个能长期陪伴的健康场景智能体 | 做出一个能记录、提醒、关怀的“家庭健康助理” | 健康助手、持续交互、生活类 Agent |
-| **第三期** | AI 学习陪伴 Agent | 如何设计能持续成长、懂你学习方式的学习伙伴 | 你将拥有一个会“越用越懂你”的学习智能体 | 学习助手、个性化陪伴、成长型 Agent |
+## 📅 The Three Practical Projects
 
-## 课程成果展示
+| Project | Agent Theme | Core Learning Objectives | Practical Highlight |
+| :--- | :--- | :--- | :--- |
+| **Project 1**<br/>`AI Writing` | **AI Writing Assistant** | How to make a model understand, imitate, and embody your unique writing style. | Build a personalized writing assistant you can deploy and use immediately. |
+| **Project 2**<br/>`Health & Wellness` | **AI Health Companion** | How to construct a long-term health and wellness agent. | Create a "Family Health Assistant" that can record data, send reminders, and provide care. |
+| **Project 3**<br/>`Learning` | **AI Study Partner** | How to design a learning companion that evolves and adapts to your study habits. | Own a learning agent that becomes more effective the more you use it. |
 
-| 期数 | Demo | 亮点 |
-| --- | --- | --- |
-| 第一期开源写作助手 | ![写作助手 Demo](docs/demo-writing.gif) | 持续学习你的写作素材，一键生成符合语气的稿件 |
-| 第二期健康关怀助手 | ![健康助手 Demo](docs/demo-health.gif) | 支持家庭成员档案、健康提醒与多轮对话 |
-| 第三期学习陪伴助手 | ![学习助手 Demo](docs/demo-learning.gif) | 根据学习进度自动布置任务、追踪反馈，可自定义课程包 |
+## 🎥 Project Demos
 
-## 时间安排与投入
+| Project | Demo | Highlights |
+| :--- | :--- | :--- |
+| **Project 1**<br/>Open-Source Writing Assistant | ![Writing Assistant Demo](docs/demo-writing.gif) | Continuously learns from your writing samples to generate content in your voice. |
+| **Project 2**<br/>Health Companion | ![Health Assistant Demo](docs/demo-health.gif) | Manages family member profiles, health reminders, and multi-turn conversations. |
+| **Project 3**<br/>Learning Partner | ![Learning Assistant Demo](docs/demo-learning.gif) | Assigns tasks based on your progress and tracks feedback; supports custom lesson packages. |
 
-- **总周期：6 周** —— 每期 2 周，循序渐进完成 1 个可上线的智能体。
-- **每期节奏**：
-  - 直播 Workshop（1-2 小时）：导师拆解需求、演示架构搭建与关键流程。
-  - 实战冲刺（2 周）：学员自驱完成开发迭代，可按「第 1 周搭建骨架→第 2 周扩展工具链与上线」推进。
-  - 群内陪跑：两周期间微信群实时提供技术支持与作业点评。
-- **周投入建议**：3-4 次集中学习，每次 2 小时左右；支持观看录播与自学文档。
+## ⏱️ Schedule & Time Commitment
 
-## 导师与社区支持
+- **Total Duration:** 6 weeks — Complete one deployable agent every 2 weeks.
 
-- **导师阵容**：ThinkInAI 核心讲师 & MemVerge 技术团队，覆盖 AI 产品、工程与运营实战背景。
-- **伴学社区**：
-  - 微信社群：每日在线答疑、作品互评。
-  - 资源库：整理研发脚本、Prompt 模板、部署指南，随时查阅。
-- **学员福利**：优秀项目可获得官方 Showcase、合作伙伴实习/共创机会。
+### Project Rhythm
+- **Live Workshop (1-2 hours):** Instructors break down requirements and demonstrate architecture and key workflows.
+- **Build Sprint (2 weeks):** Self-driven development. We suggest building the core in Week 1 and expanding the toolchain for deployment in Week 2.
+- **Community Support:** Get real-time technical support and project feedback in the dedicated WeChat group throughout the sprint.
 
-## 毕业成果
+### Weekly Commitment
+- **Suggested:** 3-4 focused sessions of ~2 hours each.
+- **Flexibility:** All sessions are recorded for flexible learning.
 
-围绕三期实战课，你将完成以下可直接上线的智能体：
+## 👨‍🏫 Instructors & Community Support
 
-- **第一期 · AI 写作助手**：打造真正理解你与品牌语气的写作搭档，可持续学习你的素材与风格。
-- **第二期 · AI 健康关怀助手**：构建能记录、提醒、关怀的家庭健康助理，支持多成员档案与长周期互动。
-- **第三期 · AI 学习陪伴助手**：交付一个越用越懂你的学习伙伴，能根据个人节奏布置任务、跟踪反馈。
+### Instructor Team
+Core instructors from **ThinkInAI** & the technical team from **MemVerge**, with deep expertise in AI product, engineering, and operations.
 
-完成全部项目后，你不仅拥有 3 个可复用的行业级智能体模板，也能将工具链扩展到任意业务场景。
+### Learning Community
+- **WeChat Group:** Daily Q&A and peer review of projects.
+- **Resource Library:** A curated collection of development scripts, prompt templates, and deployment guides.
 
-## Ready to build
+### Student Perks
+Outstanding projects will be featured in our official showcase and may lead to internship or co-creation opportunities with partners.
 
-No theory. All practice. Build your agent. Build your capability.
+## 🎓 Your Final Portfolio
+
+Upon completion, you will have built and deployed three powerful, reusable agents:
+
+- **Project 1 · AI Writing Assistant:** A partner that truly understands your brand's voice and can continuously learn from your content.
+- **Project 2 · AI Health Companion:** A family health assistant that records data, provides reminders, and offers support through long-term interactions.
+- **Project 3 · AI Study Partner:** A learning companion that adapts to your pace, assigns tasks, and tracks your progress.
+
+**Graduate not just with three production-ready agent templates, but with the skills to adapt this toolchain to any business scenario.**
+
+---
+
+## 🚀 Ready to Build?
+
+**Stop learning. Start building. Deploy your agent. Master your craft.**
