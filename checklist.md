@@ -32,6 +32,21 @@
   node -v
   npm -v
   ```
+Last login: Sun Nov 30 20:38:47 on ttys001
+HKA@NMPI271 ~ % nvm --version
+0.40.3
+HKA@NMPI271 ~ % nvm install 18
+Downloading and installing node v18.20.8...
+Downloading https://nodejs.org/dist/v18.20.8/node-v18.20.8-darwin-arm64.tar.xz...
+############################################################################################################################################################################################# 100.0%
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v18.20.8 (npm v10.8.2)
+Creating default alias: default -> 18 (-> v18.20.8)
+HKA@NMPI271 ~ % node -v      
+v18.20.8
+
+  
 - 安装示例：
   ```bash
   nvm install 18
@@ -56,6 +71,8 @@
   git config --global user.name "你的名字"
   git config --global user.email "你的邮箱"
   ```
+HKA@NMPI271 ~ % git --version
+git version 2.39.5 (Apple Git-154)
 
 ### 5. Docker（必备）
 - 用途：运行课程中的本地服务
@@ -68,7 +85,8 @@
   docker --version
   docker compose version
   ```
-
+HKA@NMPI271 ~ % docker --version
+Docker version 27.3.1, build ce12230
 ---
 
 ## 🔑 三、API Key 准备
