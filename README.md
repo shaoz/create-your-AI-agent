@@ -13,8 +13,8 @@
 
 | Capability | Value |
 | :--- | :--- |
-| **Open WebUI** | Build a local/private AI workstation for a controllable and auditable Agent interface. |
-| **MemMachine** | Equip your agent with long-term memory for continuous learning and context tracing. |
+| **Open WebUI**[Open WebUI](https://github.com/open-webui/open-webui) | Build a local/private AI workstation for a controllable and auditable Agent interface. |
+| **MemMachine**[MemMachine](https://github.com/MemMachine/MemMachine) | Equip your agent with long-term memory for continuous learning and context tracing. |
 | **LLM APIs** <br/> (DeepSeek / doubao / PPIO, etc.) | Confidently call different models, combining reasoning, generation, and retrieval as needed. |
 | **Toolchains & Workflow Orchestration** | Construct scalable, multi-tool, and multi-stage agent processes. |
 
